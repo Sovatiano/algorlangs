@@ -4,9 +4,9 @@ using namespace std;
 int main()
 {
     char a;
-    cout << "Hello World!\n";
     cout << "Print smth: ";
     cin >> a;
+    cout << "Hello World!\n";
     return 0;
 
 }
